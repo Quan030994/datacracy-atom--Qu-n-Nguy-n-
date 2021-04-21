@@ -19,7 +19,7 @@ Khi sử dụng GitHub, ngoài các công việc chính như tạo Branch, tạo
 ## 1.5. Fetch
 - Fetch là lệnh sử dụng trên kho lưu trữ server, giúp bạn di chuyển toàn bộ dữ liệu trên kho này về máy tính để tích hợp dữ liệu vào branch.
 ## 1.6. Pull
--Pull là lệnh lấy dữ liệu trên kho lưu trữ server để tích hợp vào branch.
+- Pull là lệnh lấy dữ liệu trên kho lưu trữ server để tích hợp vào branch.
 ## 1.7. GitHub Branch
 - **Branch** là một tính năng cho phép bạn tách riêng các phần của dự án. Dùng Branch để thử nghiệm các tính năng mới hoặc điều chỉnh, sửa lỗi project. Khi khởi tạo kho lưu trữ hoặc Clone, bạn sẽ được tạo lập một branch riêng. Branch riêng sẽ chứa toàn bộ mã nguồn trong kho. Như vậy mọi thành viên đều có thể phát triển nên các nội dung mới mà không sợ ảnh hưởng đến phần code hiện tại.
 - **Branch master** là nhánh “mặc định” khi bạn tạo một kho lưu trữ và là nhánh chính của ứng dụng.
